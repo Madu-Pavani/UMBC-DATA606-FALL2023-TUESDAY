@@ -1,18 +1,20 @@
-# Pavani Madu
-[LinkedIn Profile](https://www.linkedin.com/in/pavani-madu9/) | [GitHub Profile](https://github.com/Madu-Pavani) | [Email](madupavani19@gmail.com) | [Phone Number](tel:+1443-983-9409) | [Portfolio](https://trailblazer.me/id/pavanimadu9)
+<p align="center">
+  <strong>Pavani Madu</strong>
+</p>
 
-## Skills
-- Programming Languages: Python, C, JavaScript, SQL, Apex, SOQL, SOSL
-- Lightning: LWC, Aura, Salesforce Lightning | Admin Concepts: Salesforce Flows, Salesforce Security Model, Configuration, Workflows, Validation Rules, Data Management, Process Builder, Salesforce CPQ, FSL Concepts
-- Web Technologies and Services: REST API, SOAP APIs, JSON, HTML5, CSS | Salesforce Concepts: Apex Triggers, Force.com, Sales Cloud, Service Cloud, Marketing Cloud, Community Cloud, Visualforce Pages, AppExchange, Salesforce CLI
-- Tools/Databases: Eclipse, Visual Studio Code, JIRA, ServiceNow, Workbench, Data Loader, Power BI, Tableau, MySQL, AWS, Azure, Email Studio, Automation Studio, Journey Builder.
-- Deployment Tools: Changesets, Copado, Bitbucket, Git, Docker | SDLC: Agile, Scrum Framework 
-
+[LinkedIn Profile](https://www.linkedin.com/in/pavani-madu9/) | [GitHub Profile](https://github.com/Madu-Pavani) | [Email](madupavani19@gmail.com) | [+1 443-983-9409] | [Portfolio](https://trailblazer.me/id/pavanimadu9)
 
 ## Education
 ### University of Maryland, Baltimore County , December 2023
-- Data Science
-- Data Analysis and Machine Learning, Data Management, Project Management
+- M.P.S. in Data Science (GPA: 4.0)
+- **Coursework:** Data Analysis and Machine Learning, Data Management,Ethics and Legal Issues in Data Science and Project Management
+
+## Skills
+- **Programming Languages:** Python, C, JavaScript, SQL, Apex, SOQL, SOSL
+- **Lightning:** LWC, Aura, Salesforce Lightning | **Admin Concepts:** Salesforce Flows, Salesforce Security Model, Configuration, Workflows, Validation Rules, Data Management, Process Builder, Salesforce CPQ, FSL Concepts
+- **Web Technologies and Services:** REST API, SOAP APIs, JSON, HTML5, CSS | **Salesforce Concepts:** Apex Triggers, Force.com, Sales Cloud, Service Cloud, Marketing Cloud, Community Cloud, Visualforce Pages, AppExchange, Salesforce CLI
+- **Tools/Databases:** Eclipse, Visual Studio Code, JIRA, ServiceNow, Workbench, Data Loader, Power BI, Tableau, MySQL, AWS, Azure, Email Studio, Automation Studio, Journey Builder.
+- **Deployment Tools:** Changesets, Copado, Bitbucket, Git, Docker | **SDLC:** Agile, Scrum Framework 
 
 
 ## Experience
@@ -55,6 +57,6 @@
 - Salesforce Certified Platform Developer-1
 - Salesforce Certified Platform App Builder
 - Salesforce Certified Administrator
-- Recognized as the best performer and awarded the ‘STAR OF THE MONTH’ award from IBM project manager.
+- Recognized as the best performer and awarded the **‘STAR OF THE MONTH’** award from IBM project manager.
 
 
