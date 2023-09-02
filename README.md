@@ -1,4 +1,4 @@
-<h1 align="center">Pavani Madu</h1>![Profile Picture](https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Madu%20Pavani%20Photograph.jpg?raw=true)<br>
+<h1 align="center">Pavani Madu</h1>![Profile Picture](https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Madu%20Pavani%20Photograph.jpg?raw=true)
 
 
 
@@ -7,7 +7,7 @@
 ## Education
 ### University of Maryland, Baltimore County , December 2023
 - M.P.S. in Data Science (GPA: 4.0)
-- **Coursework:** Data Analysis and Machine Learning, Data Management,Ethics and Legal Issues in Data Science and Project Management
+- **Coursework:** Data Analysis and Machine Learning, Data Management, Ethics and Legal Issues in Data Science and Project Management
 
 ## Skills
 - **Programming Languages:** Python, C, JavaScript, SQL, Apex, SOQL, SOSL
