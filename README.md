@@ -1,8 +1,6 @@
-<p align="center">
-  <strong>Pavani Madu</strong>
-</p>
+<h1 align="center">Pavani Madu</h1>
 
-[LinkedIn Profile](https://www.linkedin.com/in/pavani-madu9/) | [GitHub Profile](https://github.com/Madu-Pavani) | [Email](madupavani19@gmail.com) | [+1 443-983-9409] | [Portfolio](https://trailblazer.me/id/pavanimadu9)
+[LinkedIn Profile](https://www.linkedin.com/in/pavani-madu9/) | [GitHub Profile](https://github.com/Madu-Pavani) | [Email](madupavani19@gmail.com) | +1 443-983-9409 | [Portfolio](https://trailblazer.me/id/pavanimadu9)
 
 ## Education
 ### University of Maryland, Baltimore County , December 2023
