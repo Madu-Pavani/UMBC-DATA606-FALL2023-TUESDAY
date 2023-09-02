@@ -1,5 +1,5 @@
-<h1 align="center">Pavani Madu</h1>
-![Profile Picture](https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Madu%20Pavani%20Photograph.jpg?raw=true)
+<h1 align="center">Pavani Madu</h1>![Profile Picture](https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Madu%20Pavani%20Photograph.jpg?raw=true)
+
 
 
 [LinkedIn Profile](https://www.linkedin.com/in/pavani-madu9/) | [GitHub Profile](https://github.com/Madu-Pavani) | [Email](madupavani19@gmail.com) | +1 443-983-9409 | [Portfolio](https://trailblazer.me/id/pavanimadu9)
