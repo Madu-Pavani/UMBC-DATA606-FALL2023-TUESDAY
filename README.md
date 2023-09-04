@@ -1,5 +1,5 @@
 <h1 align="center">Pavani Madu</h1>
-<img src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Madu%20Pavani.jpg" alt="Profile" width="200" height="150">
+<img src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Madu%20Pavani.jpg" alt="Profile" width="200" height="200">
 
 
 
