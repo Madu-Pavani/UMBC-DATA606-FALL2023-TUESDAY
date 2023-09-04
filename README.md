@@ -5,7 +5,7 @@
 
 
 
-[LinkedIn Profile](https://www.linkedin.com/in/pavani-madu9/) | [GitHub Profile](https://github.com/Madu-Pavani) | [Email](madupavani19@gmail.com) | [Trailblazer](https://trailblazer.me/id/pavanimadu9)
+[LinkedIn](https://www.linkedin.com/in/pavani-madu9/) | [GitHub](https://github.com/Madu-Pavani) | [Email](madupavani19@gmail.com) | [Trailblazer](https://trailblazer.me/id/pavanimadu9)
 
 ## Education
 ### University of Maryland, Baltimore County , December 2023
